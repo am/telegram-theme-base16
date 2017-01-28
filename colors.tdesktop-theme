@@ -37,7 +37,7 @@ keyColorLight: cCyanLight;
 
 windowBg: cBlack;
 windowFg: cWhite;
-windowBgOver: cBlack;
+windowBgOver: cYellow;
 windowBgRipple: cBlack;
 windowFgOver: cBlack;
 windowSubTextFg: c03;
