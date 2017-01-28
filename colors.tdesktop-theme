@@ -204,7 +204,7 @@ dialogsSendingIconFg: c06;
 dialogsSentIconFg: cGreen;
 dialogsUnreadBg: cGreen;
 dialogsUnreadBgMuted: c04;
-dialogsUnreadFg: cWhite;
+dialogsUnreadFg: cBlack;
 dialogsBgOver: c02;
 dialogsNameFgOver: c06;
 dialogsChatIconFgOver: dialogsNameFgOver;
